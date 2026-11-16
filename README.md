@@ -18,7 +18,7 @@ A minimal, tongue-in-cheek web application designed for elite procrastinators, p
 ## 🚀 Live Demo
 
   
-👉 **[View Live Demo]([[https://shellytom81-cyber.github.io/lazy-app/]](https://shellytom81-cyber.github.io/Lazy-App/))**
+👉 **[View Live Demo](https://shellytom81-cyber.github.io/Lazy-App/)**
 
 ---
 
